@@ -4,4 +4,3 @@
 3. create a git repo name infra  
 4. open 2 more branches from master branch  
 5. commit the scripts and the vagrantfiles to your branch and pull request to dev branch – put the trainer as reviewer  
-## module 4 – docker
